@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '50832'
     url: http://www.gutenberg.org/2009/agents/50832
     wikipedia: https://en.wikipedia.org/wiki/Lady_Dorothy_Nevill
+covers:
+- cover_type: archival
+  image_path: 69273-h/images/cover.jpg
 creator:
   author:
     agent_name: Jackson, Emily Nevill
     gutenberg_agent_id: '55190'
     url: http://www.gutenberg.org/2009/agents/55190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69273#The-history-of-silhouettes
 gutenberg_issued: '2022-10-30'
 identifiers:
   gutenberg: '69273'
